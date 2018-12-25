@@ -41,7 +41,7 @@ We carried out an experiment to compare the performance of Dragonfly and wget.
 |Target File Size|200MB|
 |Experiment Date|April 20, 2016|
 
-The expeirment result is as shown in the following figure.
+The experiment result is as shown in the following figure.
 
 ![How it stacks up](../img/performance.png)
 
